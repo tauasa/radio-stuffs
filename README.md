@@ -1,16 +1,13 @@
 # radio-stuffs
-Chirp images and stuffs for specific radios:
+Chirp images and CPS code plug stuffs for Baofeng and Retevis radios:
 
-**[Baofeng BF-5RM](https://github.com/tauasa/radio-stuffs/tree/main/BF-5RM):** 
-*5RM* stuffs
++ **[Baofeng DM-32UV](https://github.com/tauasa/radio-stuffs/tree/main/BF-DM-32UV)**
 
-**[Baofeng BF-5G-Plus](https://github.com/tauasa/radio-stuffs/tree/main/BF-5G-Plus):**
-Stuffs for *UV-5G Plus*
++ **[Baofeng BF-5RM](https://github.com/tauasa/radio-stuffs/tree/main/BF-5RM)** 
 
-**[Baofeng BF-T18](https://github.com/tauasa/radio-stuffs/tree/main/BF-T18):**
-Stuffs for *Baofeng T-18* (uses *Retevis RB-18* image in Chirp)
++ **[Baofeng BF-5G-Plus](https://github.com/tauasa/radio-stuffs/tree/main/BF-5G-Plus)**
 
-**[Retevis RT22](https://github.com/tauasa/radio-stuffs/tree/main/Retevis_RT22):**
-Retevis RT22 images and stuffs
++ **[Baofeng BF-T18](https://github.com/tauasa/radio-stuffs/tree/main/BF-T18)**
+Uses *Retevis RB-18* image in Chirp
 
-
++ **[Retevis RT22](https://github.com/tauasa/radio-stuffs/tree/main/Retevis_RT22)**
