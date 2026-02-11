@@ -5,6 +5,8 @@ Chirp images and CPS code plug stuffs for Baofeng and Retevis radios:
 
 + **[Baofeng 5RM](https://github.com/tauasa/radio-stuffs/tree/main/BF-5RM)** 
 
++ **[Baofeng 5R-Mini](https://github.com/tauasa/radio-stuffs/tree/main/BF-UV-5R-Mini)** 
+
 + **[Baofeng AR-5RM](https://github.com/tauasa/radio-stuffs/tree/main/BF-AR-5RM)** 
 
 + **[Baofeng 5G-Plus](https://github.com/tauasa/radio-stuffs/tree/main/BF-5G-Plus)**
