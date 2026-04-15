@@ -15,3 +15,6 @@ Chirp images and CPS code plug stuffs for Baofeng and Retevis radios:
 Uses *Retevis RB-18* image in Chirp
 
 + **[Retevis RT22](https://github.com/tauasa/radio-stuffs/tree/main/Retevis_RT22)**
+
++ **[Radtel-RT860](https://github.com/tauasa/radio-stuffs/tree/main/Radtel-RT860)**
+
